@@ -1,0 +1,704 @@
+﻿[2026-10-23 19:19:21][FATAL] 方法调用失败，因为 [System.Threading.Timer] 不包含名为“Start”的方法。
+所在位置 C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1:327 字符: 1
++ $timer.Start()
++ ~~~~~~~~~~~~~~
+在 <ScriptBlock>、C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1 中: 第 327 行
+
+[2026-10-23 19:19:27][FATAL] 方法调用失败，因为 [System.Threading.Timer] 不包含名为“Start”的方法。
+所在位置 C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1:327 字符: 1
++ $timer.Start()
++ ~~~~~~~~~~~~~~
+在 <ScriptBlock>、C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1 中: 第 327 行
+
+[2026-10-23 19:19:48][FATAL] 方法调用失败，因为 [System.Threading.Timer] 不包含名为“Start”的方法。
+所在位置 C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1:327 字符: 1
++ $timer.Start()
++ ~~~~~~~~~~~~~~
+在 <ScriptBlock>、C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1 中: 第 327 行
+
+[2026-10-23 19:20:03][FATAL] 方法调用失败，因为 [System.Threading.Timer] 不包含名为“Start”的方法。
+所在位置 C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1:327 字符: 1
++ $timer.Start()
++ ~~~~~~~~~~~~~~
+在 <ScriptBlock>、C:\Users\ASUS\Desktop\一键断网联网\NetToggle.ps1 中: 第 327 行
+
+[2026-10-23 19:28:33][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:28:38][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:28:43][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:28:48][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:28:53][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:28:58][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:29:05][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:29:08][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:29:13][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:29:18][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:29:23][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:36][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:38][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:38][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:40][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:42][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:43][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:44][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:46][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:48][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:50][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:52][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:54][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:56][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:35:58][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:00][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:02][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:04][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:06][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:08][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:10][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:10][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:12][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:14][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:16][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:18][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:19][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:20][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:20][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:20][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:22][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:24][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:26][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:28][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:30][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:31][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:32][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:37][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:39][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:41][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:42][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:43][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:45][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:47][网卡操作]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ...le $arg.Enable
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 19:36:47][后台探测]
+  System.Management.Automation.PSInvalidOperationException: 此线程中没有可用于运行脚本的运行空间。你可以在 System.Management.Automation.Runspaces.Runspace 类型的 DefaultRunspace 属性中提供一个运行空间。你尝试调用的脚本块为: 
+    param($s, ... = Test-Online
+
+   在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+     在 System.Management.Automation.ScriptBlock.GetContextFromTLS()
+   在 System.Management.Automation.ScriptBlock.InvokeAsDelegateHelper(Object dollarUnder, Object dollarThis, Object[] args)
+   在 System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   在 System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+[2026-10-23 20:35:22][后台回调]
+  使用“1”个参数调用“Remove”时发生异常:“键不能为 null。
+参数名: key”
+     在 System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   在 lambda_method(Closure , Object[] , StrongBox`1[] , InterpretedFrame )
+[2026-10-23 20:35:37][后台回调]
+  使用“1”个参数调用“Remove”时发生异常:“键不能为 null。
+参数名: key”
+     在 System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   在 <ScriptBlock>(Closure , FunctionContext )
+[2026-10-23 20:37:16][后台回调]
+  使用“1”个参数调用“Remove”时发生异常:“键不能为 null。
+参数名: key”
+     在 System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   在 <ScriptBlock>(Closure , FunctionContext )
+[2026-10-23 20:37:23][后台回调]
+  使用“1”个参数调用“Remove”时发生异常:“键不能为 null。
+参数名: key”
+     在 System.Management.Automation.ExceptionHandlingOps.CheckActionPreference(FunctionContext funcContext, Exception exception)
+   在 <ScriptBlock>(Closure , FunctionContext )
